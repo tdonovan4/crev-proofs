@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-02-11T00:20:16.222045400-05:00"
+from:
+  id-type: crev
+  id: 9QPi48J5Obtb8QoEr1-qro80R-m0F8XjzGOvcW73Y34
+  url: "https://github.com/tdonovan4/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Author of crev
+----- SIGN CREV PROOF -----
+mjZbkciVa02sgrfh7spfiaijdr5V0c6l8PQoOw-Yl4FVA_PpEWoKhDZYY7z8BSg9EvzP7EOQ2OtxwSSA4JwDCw
+----- END CREV PROOF -----
+
